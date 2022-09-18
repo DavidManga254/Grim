@@ -1,0 +1,396 @@
+@media only screen and  (max-width: 600px){
+    #mainbody,body{
+        margin: 0;
+    }
+    body{
+        overflow-x: hidden;
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        color:white;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    a:hover{
+        color: red;
+    }
+    #header{
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        width: 100vw;
+        display: flex;
+        justify-content: space-between;
+        height: 17vh;
+        position: sticky;
+        position:-webkit-sticky;
+        top: 0vh;
+    }
+    #logo{
+        padding: 0;
+        margin-right: 32vw;
+        height: 17vh;
+    }
+    #imagecontainer{
+        width: 100vw;
+        aspect-ratio: 16/5;
+    }
+    .imageslide{
+        width: 100vw;
+        aspect-ratio: 16/9;
+    }
+    #games{
+        display: flex   
+    }
+    #gamesbody{
+        display: block;
+        float: right;
+        margin-left: 2vw;
+    }
+    .popular img{
+        height: 30vh;
+        width: 30vw;
+        
+    }
+    .maintopic{
+        font-size: 2em;
+    }
+    p{
+        text-align: center;
+    }
+    .cellimage{
+        display: flex;
+        justify-content: center;
+    }
+    .topic{
+        font-size: 1.4em;
+    }
+    .gameinfo{
+        font-size: 1em;
+    }
+    .gameinfo p{
+        text-align: left;
+    }
+
+}
+@media only screen and (min-width:600.1px) and (max-width:768px){
+    #mainbody,body{
+        margin: 0;
+    }
+    body{
+        overflow-x: hidden;
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        color:white;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    a:hover{
+        color: red;
+    }
+    #header{
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        width: 100vw;
+        display: flex;
+        justify-content: space-between;
+        height: 15vh;
+        position: sticky;
+        position:-webkit-sticky;
+        top: 0vh;
+    }
+    #logo{
+        padding: 0;
+        margin-right: 38vw;
+        
+    }
+    #imagecontainer{
+        width: 100vw;
+        aspect-ratio: 16/5;
+    }
+    .imageslide{
+        width: 100vw;
+        height: 55vh;
+        aspect-ratio: 16/9;
+    }
+    #games{
+        display: flex   
+    }
+    #gamesbody{
+        display: block;
+        float: right;
+        margin-left: 2vw;
+    }
+    .popular img{
+        height: 45vh;
+        width: 30vw;
+        
+    }
+    .maintopic{
+        font-size: 2em;
+    }
+    p{
+        text-align: center;
+    }
+    .cellimage{
+        display: flex;
+        justify-content: center;
+    }
+    .cellimage img{
+        width: 40vw;
+        height: 45vh;
+    }
+    .topic{
+        font-size: 1.4em;
+    }
+    .gameinfo{
+        font-size: 1em;
+    }
+    .gameinfo p{
+        text-align: left;
+    }
+}
+@media only screen and (min-width:768.1px) and (max-width:996px){
+    #mainbody,body{
+        margin: 0;
+    }
+    body{
+        overflow-x: hidden;
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        color:white;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    a:hover{
+        color: red;
+    }
+    #header{
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        width: 100vw;
+        display: flex;
+        justify-content: space-between;
+        height: 9vh;
+        position: sticky;
+        position:-webkit-sticky;
+        top: 0vh;
+    }
+    #logo{
+        padding: 0;
+        margin-right: 42vw;
+    }
+    #imagecontainer{
+        width: 100vw;
+        aspect-ratio: 16/5;
+    }
+    .imageslide{
+        width: 100vw;
+        height: 60vh;
+    }
+    #games{
+        display: flex   
+    }
+    #gamesbody{
+        display: block;
+        float: right;
+        margin-left: 2vw;
+    }
+    .popular img{
+        height: 35vh;
+        width: 30vw;
+        
+    }
+    .maintopic{
+        font-size: 3em;
+    }
+    p{
+        text-align: center;
+    }
+    .cellimage{
+        display: flex;
+        justify-content: center;
+    }
+    .cellimage img{
+        width: 40vw;
+        height: 45vh;
+        aspect-ratio: 16/9;
+    }
+    .topic{
+        font-size: 1.9em;
+    }
+    .gameinfo{
+        font-size: 1.5em;
+    }
+    .gameinfo p{
+        text-align: left;
+    }
+}
+@media only screen and (min-width:996.1px) and (max-width:1200px){
+    #mainbody,body{
+        margin: 0;
+    }
+    body{
+        overflow-x: hidden;
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        color:white;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    a:hover{
+        color: red;
+    }
+    #header{
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        width: 100vw;
+        display: flex;
+        justify-content: space-between;
+        height: 10vh;
+        position: sticky;
+        position:-webkit-sticky;
+        top: 0vh;
+    }
+    #logo{
+        padding: 0;
+        margin-right: 42vw;
+    }
+    #imagecontainer{
+        width: 100vw;
+        aspect-ratio: 16/5;
+    }
+    .imageslide{
+        width: 100vw;
+        height: 60vh;
+    }
+    #games{
+        display: flex   
+    }
+    #gamesbody{
+        display: block;
+        float: right;
+        margin-left: 2vw;
+    }
+    .popular img{
+        height: 40vh;
+        width: 30vw;
+        
+    }
+    .maintopic{
+        font-size: 3em;
+    }
+    p{
+        text-align: center;
+    }
+    .cellimage{
+        display: flex;
+        justify-content: center;
+    }
+    .cellimage img{
+        width: 40vw;
+        height: 50vh;
+    }
+    .topic{
+        font-size: 1.9em;
+    }
+    .gameinfo{
+        font-size: 1.5em;
+    }
+    .gameinfo p{
+        text-align: left;
+    }
+}
+@media only screen and (min-width:1200px){
+    #mainbody,body{
+        margin: 0vh 20vw 0vh 5vw;
+    }
+    body{
+        overflow-x: hidden;
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        color:white;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    a:hover{
+        color: red;
+    }
+    #header{
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        width: 100vw;
+        display: flex;
+        justify-content: space-between;
+        height: 10vh;
+        position: sticky;
+        position:-webkit-sticky;
+        top: 0vh;
+    }
+    #logo{
+        padding: 0;
+        margin-right: 52vw;
+    }
+    #imagecontainer{
+        width: 100vw;
+        aspect-ratio: 16/5;
+    }
+    .imageslide{
+        width: 80vw;
+        height: 60vh;
+    }
+    #games{
+        display: flex   
+    }
+    #gamesbody{
+        display: block;
+        float: right;
+        margin-left: 2vw;
+    }
+    .popular img{
+        height: 60vh;
+        width: 30vw;
+        
+    }
+    .maintopic{
+        font-size: 3em;
+    }
+    p{
+        text-align: center;
+    }
+    .cellimage{
+        display: flex;
+        justify-content: center;
+    }
+    .cellimage img{
+        width: 40vw;
+        height: 50vh;
+    }
+    .topic{
+        font-size: 1.9em;
+    }
+    .gameinfo{
+        font-size: 1.5em;
+    }
+    .gameinfo p{
+        text-align: left;
+    }
+}

@@ -1,0 +1,512 @@
+@media only screen and (max-width:600px){
+    body,html{
+        margin: 0;
+        padding: 0;
+        max-width: 100%;
+        height: 100vh;
+        color:white;
+        overflow-x: hidden;
+    }
+    body{
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    #header{
+        display: flex;
+        justify-content: space-between;
+        width: 100vw;
+        height:20vh;
+        position: sticky;
+        top:0vh;
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+    }
+    #logo{
+        padding-right: 30vw;
+        height: 100%;
+    }
+    .gameinfo{
+        margin: 2vh 3vw 0vh 3vw;
+        border-radius: 5%;
+    }
+    h2{
+        text-align: center;
+    }
+    .gameimage{
+        align-items: center;
+        height: 35h;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 3vh;
+    }
+    .gameimage img{
+        height: 80%;
+        width: 80%;
+        border-radius: 10%;
+    }
+    h3{
+        text-align: center;
+    }
+    .trailervideo{
+        display: flex;
+        justify-content: center;
+    }
+    iframe{
+        width: 80%;
+        aspect-ratio: 16/9;
+    }
+    .informationtab{
+        padding-left: 2%;
+    }
+    #description{
+        padding-left: 2%;
+    }
+    #screenshot{
+        align-content: center;
+    }
+    button{
+        margin-bottom: 3%;
+    }
+    #screenshot img{
+        padding-left: 10%;
+        margin-bottom: 5%;
+        width: 80%;
+        aspect-ratio: 16/9;
+    }
+    #Systemrequirements p{
+        padding-left: 2%;
+    }
+    #downloadlink{
+        padding-left: 2%;
+    }
+    #downloadlink button{
+        background-color: rgb(109, 149, 184);
+    }
+    #contact{
+        background-image:url('../images/image_downloader_1662038787897.jpg');
+        padding-left: 2%;
+    }
+    #contact p{
+        text-align: center;
+        font-size: 1.1em;
+    }
+    h2{
+        font-size: 2rem;
+    }
+    h3{
+        font-size: 1.5rem;
+    }
+    #description p{
+        font-size: 1.1em;
+    }
+}
+@media only screen and (min-width:600.1px) and (max-width:768px){
+    body,html{
+        margin: 0;
+        padding: 0;
+        max-width: 100%;
+        height: 100vh;
+        color:white;
+        overflow-x: hidden;
+    }
+    body{
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    #header{
+        display: flex;
+        justify-content: space-between;
+        width: 100vw;
+        height:18vh;
+        position: sticky;
+        top:0vh;
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+    }
+    #logo{
+        padding-right: 35vw;
+        height: 100%;
+    }
+    .gameinfo{
+        margin: 2vh 10vw 0vh 10vw;
+        border-radius: 5%;
+    }
+    h2{
+        text-align: center;
+    }
+    .gameimage{
+        align-items: center;
+        height: 35h;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 3vh;
+    }
+    .gameimage img{
+        height: 80%;
+        width: 80%;
+        border-radius: 10%;
+    }
+    h3{
+        text-align: center;
+    }
+    .trailervideo{
+        display: flex;
+        justify-content: center;
+    }
+    iframe{
+        width: 80%;
+        aspect-ratio: 16/9;
+    }
+    .informationtab{
+        padding-left: 2%;
+    }
+    #description{
+        padding-left: 2%;
+    }
+    #screenshot{
+        align-content: center;
+    }
+    button{
+        margin-bottom: 3%;
+    }
+    #screenshot img{
+        padding-left: 10%;
+        margin-bottom: 5%;
+        width: 80%;
+        aspect-ratio: 16/9;
+    }
+    #Systemrequirements p{
+        padding-left: 2%;
+    }
+    #downloadlink{
+        padding-left: 2%;
+    }
+    #downloadlink button{
+        background-color: rgb(109, 149, 184);
+    }
+    #contact{
+        background-image:url('../images/image_downloader_1662038787897.jpg');
+        padding-left: 2%;
+    }
+    #contact p{
+        text-align: center;
+        font-size: 1.1em;
+    }
+    h2{
+        font-size: 2rem;
+    }
+    h3{
+        font-size: 1.5rem;
+    }
+    #description p{
+        font-size: 1.1em;
+    }
+}
+@media only screen and (min-width:768.1px) and (max-width:996px){
+    body,html{
+        margin: 0;
+        padding: 0;
+        max-width: 100%;
+        height: 100vh;
+        color:white;
+        overflow-x: hidden;
+    }
+    body{
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    #header{
+        display: flex;
+        justify-content: space-between;
+        width: 100vw;
+        height:10vh;
+        position: sticky;
+        top:0vh;
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+    }
+    #logo{
+        padding-right: 40vw;
+        height: 100%;
+    }
+    .gameinfo{
+        margin: 2vh 15vw 0vh 15vw;
+        border-radius: 5%;
+    }
+    h2{
+        text-align: center;
+    }
+    .gameimage{
+        align-items: center;
+        height: 35h;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 3vh;
+    }
+    .gameimage img{
+        height: 80%;
+        width: 80%;
+        border-radius: 10%;
+    }
+    h3{
+        text-align: center;
+    }
+    .trailervideo{
+        display: flex;
+        justify-content: center;
+    }
+    iframe{
+        width: 80%;
+        aspect-ratio: 16/9;
+    }
+    .informationtab{
+        padding-left: 2%;
+    }
+    #description{
+        padding-left: 2%;
+    }
+    #screenshot{
+        align-content: center;
+    }
+    button{
+        margin-bottom: 3%;
+    }
+    #screenshot img{
+        padding-left: 10%;
+        margin-bottom: 5%;
+        width: 80%;
+        aspect-ratio: 16/9;
+    }
+    #Systemrequirements p{
+        padding-left: 2%;
+    }
+    #downloadlink{
+        padding-left: 2%;
+    }
+    #downloadlink button{
+        background-color: rgb(109, 149, 184);
+    }
+    #contact{
+        background-image:url('../images/image_downloader_1662038787897.jpg');
+        padding-left: 2%;
+    }
+    #contact p{
+        text-align: center;
+        font-size: 1.1em;
+    }
+    h2{
+        font-size: 2rem;
+    }
+    h3{
+        font-size: 1.5rem;
+    }
+    #description p{
+        font-size: 1.1em;
+    }
+}
+@media only screen and (min-width:996.1px) and (max-width:1200px){
+    body,html{
+        margin: 0;
+        padding: 0;
+        max-width: 100%;
+        height: 100vh;
+        color:white;
+        overflow-x: hidden;
+    }
+    body{
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    #header{
+        display: flex;
+        justify-content: space-between;
+        width: 100vw;
+        height:10vh;
+        position: sticky;
+        top:0vh;
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+    }
+    #logo{
+        padding-right: 45vw;
+        height: 100%;
+    }
+    .gameinfo{
+        margin: 2vh 18vw 0vh 18vw;
+        border-radius: 5%;
+    }
+    h2{
+        text-align: center;
+    }
+    .gameimage{
+        align-items: center;
+        height: 35h;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 3vh;
+    }
+    .gameimage img{
+        height: 80%;
+        width: 80%;
+        border-radius: 10%;
+    }
+    h3{
+        text-align: center;
+    }
+    .trailervideo{
+        display: flex;
+        justify-content: center;
+    }
+    iframe{
+        width: 80%;
+        aspect-ratio: 16/9;
+    }
+    .informationtab{
+        padding-left: 2%;
+    }
+    #description{
+        padding-left: 2%;
+    }
+    #screenshot{
+        align-content: center;
+    }
+    button{
+        margin-bottom: 3%;
+    }
+    #screenshot img{
+        padding-left: 10%;
+        margin-bottom: 5%;
+        width: 80%;
+        aspect-ratio: 16/9;
+    }
+    #Systemrequirements p{
+        padding-left: 2%;
+    }
+    #downloadlink{
+        padding-left: 2%;
+    }
+    #downloadlink button{
+        background-color: rgb(109, 149, 184);
+    }
+    #contact{
+        background-image:url('../images/image_downloader_1662038787897.jpg');
+        padding-left: 2%;
+    }
+    #contact p{
+        text-align: center;
+        font-size: 1.1em;
+    }
+    h2{
+        font-size: 2rem;
+    }
+    h3{
+        font-size: 1.5rem;
+    }
+    #description p{
+        font-size: 1.1em;
+    }
+}
+@media only screen and (min-width:1200px){
+    body,html{
+        margin: 0;
+        padding: 0;
+        max-width: 100%;
+        height: 100vh;
+        color:white;
+        overflow-x: hidden;
+    }
+    body{
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    #header{
+        display: flex;
+        justify-content: space-between;
+        width: 100vw;
+        height:10vh;
+        position: sticky;
+        top:0vh;
+        background-image: url('../images/image_downloader_1662038787897.jpg');
+    }
+    #logo{
+        padding-right: 45vw;
+        height: 100%;
+    }
+    .gameinfo{
+        margin: 2vh 20vw 0vh 20vw;
+        border-radius: 5%;
+    }
+    h2{
+        text-align: center;
+    }
+    .gameimage{
+        align-items: center;
+        height: 35h;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 3vh;
+    }
+    .gameimage img{
+        height: 80%;
+        width: 80%;
+        border-radius: 10%;
+    }
+    h3{
+        text-align: center;
+    }
+    .trailervideo{
+        display: flex;
+        justify-content: center;
+    }
+    iframe{
+        width: 80%;
+        aspect-ratio: 16/9;
+    }
+    .informationtab{
+        padding-left: 2%;
+    }
+    #description{
+        padding-left: 2%;
+    }
+    #screenshot{
+        align-content: center;
+    }
+    button{
+        margin-bottom: 3%;
+    }
+    #screenshot img{
+        padding-left: 10%;
+        margin-bottom: 5%;
+        width: 80%;
+        aspect-ratio: 16/9;
+    }
+    #Systemrequirements p{
+        padding-left: 2%;
+    }
+    #downloadlink{
+        padding-left: 2%;
+    }
+    #downloadlink button{
+        background-color: rgb(109, 149, 184);
+    }
+    #contact{
+        background-image:url('../images/image_downloader_1662038787897.jpg');
+        padding-left: 2%;
+    }
+    #contact p{
+        text-align: center;
+        font-size: 1.1em;
+    }
+    h2{
+        font-size: 2rem;
+    }
+    h3{
+        font-size: 1.5rem;
+    }
+    #description p{
+        font-size: 1.1em;
+    }
+}
+
+
